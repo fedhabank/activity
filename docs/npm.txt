@@ -1,0 +1,3 @@
+npm install --save rxjs redux redux-observable @redux-devtools/extension react-redux @types/react-redux @alstradocs/service-objects axios
+
+npm install --save @mui/material @emotion/react @emotion/styled @mui/icons-material
